@@ -8,7 +8,7 @@ Lab: 5 </br>
 
 ## Deskripsi Aplikasi
 
-Aplikasi simpan *watchlist* seperti MAL (my anime list), adapun fiturnya sebagai berikut:
+Aplikasi sederhana yang berfungsi untuk simpan *watchlist* anime seperti MAL (my anime list), adapun fiturnya sebagai berikut:
 1. login/signup
 2. search anime
 3. favorit anime
