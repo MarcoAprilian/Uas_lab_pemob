@@ -35,5 +35,7 @@ Profile</br>
 <img width="301" height="662" alt="image" src="https://github.com/user-attachments/assets/4aa2fa42-c0e0-4067-982f-84233a316c05" />
 </br>
 
+## Link Download Aplikasi
+https://github.com/MarcoAprilian/Uas_lab_pemob/releases/tag/v1.0.3
 
 
