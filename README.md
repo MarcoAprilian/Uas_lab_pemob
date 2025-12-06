@@ -36,6 +36,6 @@ Profile</br>
 </br>
 
 ## Link Download Aplikasi
-https://github.com/MarcoAprilian/Uas_lab_pemob/releases/tag/v1.0.3
+[https://github.com/MarcoAprilian/Uas_lab_pemob/releases/tag/v1.0.3](https://youtu.be/sx2MtEXAYss)
 
 
